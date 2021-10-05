@@ -1,6 +1,13 @@
 # chickensandwich-cc-b6-nohwid
 
 ## !!!!! just got confirmation from the dev that this is ratted !!!!!
+## !!!!! just got confirmation from the dev that this is ratted !!!!!
+## !!!!! just got confirmation from the dev that this is ratted !!!!!
+## !!!!! just got confirmation from the dev that this is ratted !!!!!
+## !!!!! just got confirmation from the dev that this is ratted !!!!!
+## !!!!! just got confirmation from the dev that this is ratted !!!!!
+## !!!!! just got confirmation from the dev that this is ratted !!!!!
+
 
 # Made by coders who dont even understand what a boolean is!
 
