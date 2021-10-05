@@ -5,7 +5,7 @@
 * note for caleb: ur door is getting slammed.
 * note for alfie: learn to code skidder
 * note for ron1: idk you
-
+* [Awesome Person]
 unchecked but removed hwid in 1 minute.
 
 ## op hwid system it used!:
